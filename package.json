@@ -1,0 +1,16 @@
+{
+  "name": "portfolio_website_react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-to-chromium": "^1.4.284",
+    "react": "^18.2.0"
+  },
+  "description": ""
+}
